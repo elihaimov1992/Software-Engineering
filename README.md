@@ -1,1 +1,1 @@
-Project in software engineering
+Project in Software Engineering course
